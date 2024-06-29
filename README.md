@@ -1,2 +1,3 @@
 # HotelReservationAnalysis
-The Hotel Reservation Analysis Project is my first task for my internship with Mentorness. In this project I utilized SQL to query and analyse the hotel reservation dataset, to gain insights into key factors that impact the hotel’s operations.
+sing a hotel reservation dataset, this project is aimed at gaining insights into guest preferences, booking trends, and other key factors that impact the hotel’s operations. MYSQL Workbench was used in running the query and analysis of the data, as well as answer specific questions about the dataset.
+Read the data storytelling here
