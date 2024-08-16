@@ -1,5 +1,6 @@
 ---CREATE DATABASE mentorness
 ---USE mentorness
+---import dataset as hotel reservation_table---
 
 --- select_all_from hotel reservation_table---
 SELECT *
